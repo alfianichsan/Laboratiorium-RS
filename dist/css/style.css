@@ -1,0 +1,19 @@
+.scrollable{
+	height : 200px;
+	overflow : scroll;
+}
+
+.scrollable-idx{
+	height : 400px;
+	overflow : scroll;
+}
+
+.scrollable-layput{
+	height : 500px;
+	overflow : scroll;
+}
+
+.scrollable-psn{
+	height : 500px;
+	overflow : scroll;
+}
